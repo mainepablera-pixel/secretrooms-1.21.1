@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "camouflage_paste",
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "tag": "c:dyes"
+    },
+    "#": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "count": 9,
+    "id": "secretroomsmod:camouflage_paste"
+  }
+}
