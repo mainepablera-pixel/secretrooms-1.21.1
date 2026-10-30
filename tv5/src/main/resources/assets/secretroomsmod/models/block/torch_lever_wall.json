@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:block/template_torch_wall",
-  "textures": {
-    "torch": "secretroomsmod:block/torch_lever_off",
-    "particle": "secretroomsmod:block/torch_lever_off",
-    "true_vision_overlay": "secretroomsmod:block/overlay"
-  },
-  "render_type": "minecraft:cutout"
-}
