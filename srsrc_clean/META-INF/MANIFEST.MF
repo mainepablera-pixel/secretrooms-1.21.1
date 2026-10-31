@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: examplemod
+Specification-Vendor: examplemodsareus
+Specification-Version: 1
+Implementation-Title: SecretRooms
+Implementation-Version: 1.19.2-1.2.0
+Implementation-Vendor: examplemodsareus
+Implementation-Timestamp: 2022-11-19T21:35:19+0000
+

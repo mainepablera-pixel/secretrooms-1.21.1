@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_torch",
+  "textures": {
+    "torch": "minecraft:block/torch",
+    "particle": "minecraft:block/torch",
+    "true_vision_overlay": "secretroomsmod:block/overlay"
+  },
+  "render_type": "minecraft:cutout"
+}
